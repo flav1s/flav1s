@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Flávia</h1>
 
-Working as Software Engineer. I started as a Fullstack developer, but now I work mostly Frontend. I'm skilled in JavaScript, TypeScript, Python, Angular, Django and RESTfull API.
+Working as Software Engineer. I started as a Fullstack developer but now I work mostly with Frontend. I'm skilled in JavaScript, TypeScript, Python, Angular, Django and RESTfull API.
 
 - 🔭 I’m currently working as **Software Engineer**
 
