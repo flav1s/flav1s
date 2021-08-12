@@ -50,7 +50,7 @@ Working as Software Engineer. I started as a Fullstack developer but now I work 
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flav1s&hide=php)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flav1s&hide=php)
 
 
 <br>
