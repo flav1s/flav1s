@@ -40,17 +40,14 @@ Working as Software Engineer. I started as a Fullstack developer but now I work 
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Jira](https://img.shields.io/badge/-Jira-darkblue?style=flat-square&logo=Jira)
 
-<br/>
-
-# 💻 Operating systems
-
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows)
-![MacOS](https://img.shields.io/badge/-MacOS-000000?style=flat-square&logo=MacOS)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-ffffff?style=flat-square&logo=Ubuntu)
-
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flav1s&hide=php)
+
+<center>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flav1s&hide=php&theme=radical)
+
+</center>
 
 
 <br>
