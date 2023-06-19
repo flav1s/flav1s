@@ -1,6 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Flávia</h1>
 
-Working as Software Engineer. I started as a Fullstack developer but now I work mostly with Frontend. I'm skilled in JavaScript, TypeScript, Python, (React, Angular and Django) and RESTfull API's.
+I am a frontend software developer. My specialties include using Typescript, JavaScript, React, Next.js, and Angular. Additionally, I have a strong understanding of Python, Django, Flask, and FastAPI. 
+I currently work as a frontend developer, but I also have experience as a fullstack developer. My passion for learning and staying up-to-date with the latest technologies and my technical and soft skills enable me to provide efficient solutions and work collaboratively in team environments.
 
 - 🔭 I’m currently working as **Software Engineer**
   
