@@ -3,8 +3,6 @@
 Working as Software Engineer. I started as a Fullstack developer but now I work mostly with Frontend. I'm skilled in JavaScript, TypeScript, Python, (React, Angular and Django) and RESTfull API's.
 
 - 🔭 I’m currently working as **Software Engineer**
-
-- 🌱 I’m currently learning **React and Next.js**
   
 - 📩 Contact me: [![Linkedin Badge](https://img.shields.io/badge/-flaviaccruzr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/flaviaccruzr)](https://linkedin.com/in/flaviaccruzr)
 [![Gmail Badge](https://img.shields.io/badge/-flaviaccruzr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:flaviaccruzr@gmail.com)](mailto:flaviaccruzr@gmail.com)
